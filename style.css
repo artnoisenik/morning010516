@@ -57,11 +57,39 @@ div {
   height: 40px;
   border: 2px dashed grey;
 }
+
 .box8 {
   position: absolute;
   top: 120px;
-  right: 0;
+  left: 120px;
   width: 30px;
   height: 20px;
   border: 5px solid yellow;
+}
+
+.box9 {
+  display: inline-block;
+  top: 220px;
+  left: 120px;
+  width: 30px;
+  height: 20px;
+  border: 5px solid black;
+}
+
+.box10 {
+  display: inline-block;
+  top: 220px;
+  right: 0;
+  width: 30px;
+  height: 20px;
+  border: 5px solid green;
+}
+
+.box11 {
+  display: inline-block;
+  top: 220px;
+  right: 0;
+  width: 30px;
+  height: 20px;
+  border: 5px solid green;
 }
